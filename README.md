@@ -1,6 +1,6 @@
 #  Transaction Category Classifier
 
-My first side project. This project classifies financial transactions into one or more categories using a combination of textual descriptions, transaction amounts, and date features. It uses a custom-built **Multilayer Perceptron (MLP)** neural network for multi-label classification.
+My first side project. This project classifies financial transactions into one or more categories using a combination of textual descriptions, transaction amounts, and date features. It uses a custom-built neural network for multi-label classification.
 
 ---
 
